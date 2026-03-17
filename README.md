@@ -2,6 +2,8 @@
 
 **Laravel Backend Specialist** — building scalable SaaS platforms, secure REST APIs, and enterprise web systems for 5+ years.
 
+> 🌍 Based in UAE | Open to International Remote Projects
+
 ---
 
 ## 🚀 What I Do
@@ -11,6 +13,7 @@
 - ☁️ **Cloud & DevOps** — AWS, DigitalOcean, CI/CD pipelines
 - 🔐 **Security** — Role-based access, OAuth, API authentication
 - 📊 **Enterprise Dashboards** — Chart.js, data visualization, analytics
+- 📦 **Package Development** — Custom Laravel packages, open-source contributor
 
 ---
 
@@ -27,9 +30,37 @@
 
 ---
 
+## 📦 Open Source Package
+
+### ⚡ [Laravel Admin Generator](https://github.com/kashifali-laraveldev/laravel-admin-generator)
+
+> A Laravel package I built from scratch — automatically generates full CRUD panels & RESTful APIs by simply adding a trait to your model. No boilerplate. No repetition.
+
+```php
+// This is literally all you need:
+use LaravelAdmin;       // → Full CRUD panel auto-generated
+use LaravelAdminAPI;    // → REST APIs auto-registered
+```
+
+- 🔌 Auto-generates controllers, views & routes for any model
+- 🌐 RESTful API endpoints created automatically
+- 🏗️ Visual Schema Builder — create models from the browser
+- ✏️ Live Code Editor — edit migrations in-browser
+- 🔐 Built-in auth, roles & permission management
+- 📬 Postman collection included for instant API testing
+
+[![Packagist](https://img.shields.io/badge/Packagist-Install-F28D1A?style=for-the-badge&logo=composer&logoColor=white)](https://packagist.org/packages/bitsoftsol/laravel-administration)
+
+```bash
+composer require bitsoftsol/laravel-administration
+```
+
+---
+
 ## 💼 Featured Projects
 
 ### ⚖️ [Legal Entity Management System](https://github.com/kashifali-laraveldev/legal-entity-management)
+
 > Enterprise corporate governance platform built for a UAE financial institution.
 
 - Manages 50+ legal entities across multiple jurisdictions
@@ -59,9 +90,9 @@
 
 ## 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kashif-ali-39659518a/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alikashi54321@gmail.com)
 
 ---
 
-*💡 Available for select remote projects — let's build something great together.*
+_💡 Available for select remote projects — let's build something great together._
