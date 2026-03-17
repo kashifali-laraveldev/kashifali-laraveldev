@@ -2,7 +2,7 @@
 
 **Laravel Backend Specialist** — building scalable SaaS platforms, secure REST APIs, and enterprise web systems for 5+ years.
 
-> 🌍 Based in UAE | Open to International Remote Projects
+> 🌍 Open to International Remote Projects
 
 ---
 
@@ -49,7 +49,7 @@ use LaravelAdminAPI;    // → REST APIs auto-registered
 - 🔐 Built-in auth, roles & permission management
 - 📬 Postman collection included for instant API testing
 
-[![Packagist](https://img.shields.io/badge/Packagist-Install-F28D1A?style=for-the-badge&logo=composer&logoColor=white)](https://packagist.org/packages/bitsoftsol/laravel-administration)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Package-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kashifali-laraveldev/laravel-admin-generator)
 
 ```bash
 composer require bitsoftsol/laravel-administration
