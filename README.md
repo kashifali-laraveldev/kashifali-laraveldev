@@ -156,7 +156,7 @@ If you need a skilled Laravel developer who can deliver robust, scalable, and we
 |---|---|
 | 📧 **Email** | [alikashi54321@gmail.com](mailto:alikashi54321@gmail.com) |
 | 💼 **LinkedIn** | [linkedin.com/in/kashif-ali-39659518a](https://www.linkedin.com/in/kashif-ali-39659518a) |
-| 🌐 **Portfolio** | [kashifali-laraveldev.kitsoftsol.com](http://kashifali.kitsoftsol.com) |
+| 🌐 **Portfolio** | [kashifali.kitsoftsol.com](http://kashifali.kitsoftsol.com) |
 | 📱 **WhatsApp** | [+92 305 750 2419](https://wa.me/923057502419) |
 
 ---
