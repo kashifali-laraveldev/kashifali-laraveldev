@@ -55,6 +55,7 @@ I write **clean, well-structured code**, deliver on time, and communicate clearl
 > **Enterprise-level legal entity management & financial reporting platform — built for a UAE-based corporate group (ICD UAE).**
 
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-demo--grm--portal.kitsoftsol.com-6d28d9?style=for-the-badge)](http://demo-grm-portal.kitsoftsol.com)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/kashifali-laraveldev/grm-portal)
 
 **What it does:**  
 GRM Portal centralizes the management of 50+ legal entities across multiple global jurisdictions. Finance teams and legal officers use it to track financial deliverables, shareholding structures, entity ownership graphs, reporting timelines, document vaults, and compliance deadlines — all in one place.
@@ -89,6 +90,7 @@ GRM Portal centralizes the management of 50+ legal entities across multiple glob
 
 [![Frontend Demo](https://img.shields.io/badge/🖥️_Frontend-demo--master--pos.kitsoftsol.com-7c3aed?style=for-the-badge)](http://demo-master-pos.kitsoftsol.com)
 [![Backend API](https://img.shields.io/badge/⚙️_Laravel_API-demo--backend--master--pos.kitsoftsol.com-059669?style=for-the-badge)](http://demo-backend-master-pos.kitsoftsol.com)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/kashifali-laraveldev/master-pos)
 
 **What it does:**  
 Master POS is a complete retail Point of Sale solution. Cashiers use the Vue.js frontend to process sales, manage carts, and accept multiple payment types. Managers use the admin panel to oversee products, inventory, reports, and sales history. The Laravel backend exposes a fully documented REST API with multi-tenant support.
