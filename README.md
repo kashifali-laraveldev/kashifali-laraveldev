@@ -124,7 +124,7 @@ Master POS is a complete retail Point of Sale solution. Cashiers use the Vue.js 
 > **A Laravel package that auto-generates fully functional admin panels — CRUD, migrations, controllers, views — from a single command.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/kashifali-laraveldev/laravel-admin-generator)
-[![Packagist](https://img.shields.io/badge/Packagist-Install_via_Composer-F28D1A?style=for-the-badge&logo=packagist&logoColor=white)](https://packagist.org/packages/kashifali/laravel-admin-generator)
+[![Packagist](https://img.shields.io/badge/Packagist-Install_via_Composer-F28D1A?style=for-the-badge&logo=packagist&logoColor=white)](https://packagist.org/packages/bitsoftsol/laravel-administration)
 
 **What it does:**  
 Stop writing boilerplate. This package reads your model definition and generates a complete, ready-to-use admin interface in seconds — including migrations, controllers, form requests, Blade views, and routes.
