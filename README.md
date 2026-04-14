@@ -37,11 +37,11 @@ I write **clean, well-structured code**, deliver on time, and communicate clearl
 | | |
 |---|---|
 | **Languages** | PHP, JavaScript, SQL |
-| **Frameworks** | Laravel, Vue.js, Livewire |
+| **Frameworks** | Laravel, Vue.js |
 | **Frontend** | Blade, Tailwind CSS, Bootstrap |
 | **Databases** | MySQL, PostgreSQL, Redis |
 | **API** | RESTful APIs, Sanctum, Passport, OpenAPI/Swagger |
-| **Tools** | Git, Composer, Docker, Postman, GitHub Actions |
+| **Tools** | Git, Composer, Postman, GitHub Actions |
 | **Patterns** | MVC, Repository Pattern, Multi-Tenancy, Role-Based Access Control |
 
 ---
